@@ -1,0 +1,5 @@
+name: csv2text
+channels:
+        - default
+dependencies:
+        - pandas
